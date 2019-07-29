@@ -30,5 +30,8 @@ namespace VulnerableApplication.Controllers
         public string Hello() {
         return "this is not on the coding rules.";
         }
+        
+        private static string ChangePassword = "PassWord917231";
+
     }
 }
